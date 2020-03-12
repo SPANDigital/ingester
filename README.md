@@ -1,4 +1,4 @@
-# ingestor
+# Ingestor
 This is the Repo for Ingestor
 
 ## Getting Started
